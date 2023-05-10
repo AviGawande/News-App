@@ -1,4 +1,3 @@
-# importing api
 from django.shortcuts import render
 from newsapi import NewsApiClient
   
